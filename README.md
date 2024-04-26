@@ -57,7 +57,7 @@ performance and efficiency.
 - 9. Donut Chart-Coal Co2
 - 10. Continent Contribution in Co2 Emission
 
-8. **Create Dashboards and Stories**
+8. **Create and Publish Dashboards and Stories to Tableau Public**
  - View my dashboard at
    (https://public.tableau.com/views/Co2Emission_17141587141170/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 - View Story at(https://public.tableau.com/shared/WRGW4XHBQ?:display_count=n&:origin=viz_share_link)
