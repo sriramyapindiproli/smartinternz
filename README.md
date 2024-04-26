@@ -12,7 +12,7 @@ amount yearly.
 - Analysing Global Co2 Emission across countries from 1975 to 2020. This dataset contains a
 record of Co2 Emission by each Country and Region of Earth, here we are going to analyse and
 visualise Country wise, Region wise and Overall Co2 Emission on Earth.
-![Technical Architecture](technicalarchitecture.png)
+
 
 ## Steps
 As a data analyst working for a policy research institute, you are tasked with creating a visualization that helps policymakers and researchers understand the trends in CO2 emissions and their relationship with various socio-economic factors. Here's a step-by-step explanation of the project:
