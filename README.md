@@ -58,6 +58,6 @@ performance and efficiency.
 - 10. Continent Contribution in Co2 Emission
 
 8. **Create Dashboards and Stories**
- -View my dashboard at
+ - View my dashboard at
    (https://public.tableau.com/views/Co2Emission_17141587141170/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
--View Story at(https://public.tableau.com/shared/WRGW4XHBQ?:display_count=n&:origin=viz_share_link)
+- View Story at(https://public.tableau.com/shared/WRGW4XHBQ?:display_count=n&:origin=viz_share_link)
