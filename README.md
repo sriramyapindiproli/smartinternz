@@ -1,9 +1,10 @@
-# Co2 Emission Analysis 
-● Define Problem / Problem Understanding
-o Specify the business problem
-o Business requirements
-o Literature Survey
-o Social or Business Impact.
+# Co2 Emission Analysis
+#steps
+ 1.Define Problem / Problem Understanding
+ Specify the business problem
+ 2.Business requirements
+ 3.Literature Survey
+  Social or Business Impact.
 ● Data Collection & Extraction from Database
 o Collect the dataset,
 o Storing Data in DB
