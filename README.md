@@ -59,5 +59,7 @@ performance and efficiency.
 
 8. **Create and Publish Dashboards and Stories to Tableau Public**
  - View my dashboard at
-   (https://public.tableau.com/views/Co2Emission_17141587141170/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-- View Story at(https://public.tableau.com/shared/WRGW4XHBQ?:display_count=n&:origin=viz_share_link)
+   https://public.tableau.com/views/Co2Emission_17141587141170/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- View Story at  https://public.tableau.com/shared/WRGW4XHBQ?:display_count=n&:origin=viz_share_link
+9. **Project Explanation**
+  - watch the video at https://drive.google.com/file/d/13hxagbiu-QefFjQzikT7cxycx8f0IDlJ/view?usp=sharing
